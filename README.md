@@ -1,5 +1,6 @@
 # SuperStore-Sales-Dashboard
 
+
 # Sales and Profit Analysis with Power BI
 
 This repository contains a dataset related to sales and profit, which has been analyzed using Power BI to derive insights. Below, we'll walk you through the analysis, visualizations, and key findings.
